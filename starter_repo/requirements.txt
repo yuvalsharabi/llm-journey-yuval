@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+torch
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+faiss-cpu
+numpy
+python-dotenv
+boto3
+sentence-transformers
